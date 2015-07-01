@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Stormy/ViewController.swift"
+            timestampString = "446778070.443"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Stormy.ViewController.init (Stormy.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; Stormy.ViewController"
+                  moduleName = "Stormy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terry.lee/Documents/workspace/iOS/apps/Stormy/Stormy/ViewController.swift"
+                  timestampString = "447967553.043757"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "47">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Stormy.ViewController.init (Stormy.ViewController.Type)() -&gt; Stormy.ViewController"
+                  moduleName = "Stormy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terry.lee/Documents/workspace/iOS/apps/Stormy/Stormy/ViewController.swift"
+                  timestampString = "447967553.04403"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "37">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Stormy.ViewController.init (Stormy.ViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; Stormy.ViewController"
+                  moduleName = "Stormy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/terry.lee/Documents/workspace/iOS/apps/Stormy/Stormy/ViewController.swift"
+                  timestampString = "447967553.04419"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "41">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
